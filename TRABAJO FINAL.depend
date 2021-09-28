@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1603912175 source:c:\users\gonza\desktop\facu\1. programacion\programas\trabajo final\cartones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cartones.h"
+
+1603912429 c:\users\gonza\desktop\facu\1. programacion\programas\trabajo final\cartones.h
+
+1603900690 source:c:\users\gonza\desktop\facu\1. programacion\programas\trabajo final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cartones.h"
+	"jugador.h"
+
+1603899577 c:\users\gonza\desktop\facu\1. programacion\programas\trabajo final\jugador.h
+
+1603911455 source:c:\users\gonza\desktop\facu\1. programacion\programas\trabajo final\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cartones.h"
+	"jugador.h"
+
